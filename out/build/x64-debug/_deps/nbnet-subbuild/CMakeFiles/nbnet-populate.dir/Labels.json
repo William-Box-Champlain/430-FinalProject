@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/CMakeFiles/nbnet-populate"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/CMakeFiles/nbnet-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/CMakeFiles/nbnet-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Will/source/repos/430-FinalProject/out/build/x64-debug/_deps/nbnet-subbuild/nbnet-populate-prefix/src/nbnet-populate-stamp/nbnet-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nbnet-populate"
+		],
+		"name" : "nbnet-populate"
+	}
+}

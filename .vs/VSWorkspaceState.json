@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": []
+  },
+  "ExpandedNodes": [
+    "",
+    "\\out\\build\\x64-debug\\.cmake",
+    "\\out\\build\\x64-debug\\.cmake\\api",
+    "\\out\\build\\x64-debug\\.cmake\\api\\v1",
+    "\\out\\build\\x64-debug\\.cmake\\api\\v1\\query",
+    "\\out\\build\\x64-debug\\.cmake\\api\\v1\\reply",
+    "\\out\\build\\x64-debug\\CMakeFiles",
+    "\\out\\build\\x64-debug\\CMakeFiles\\MultiballPong.dir",
+    "\\out\\build\\x64-debug\\CMakeFiles\\pkgRedirects",
+    "\\out\\build\\x64-debug\\CMakeFiles\\ShowIncludes"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
